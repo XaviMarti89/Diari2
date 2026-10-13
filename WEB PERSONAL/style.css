@@ -1,0 +1,5 @@
+.columnas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columnas del mismo tamaño */
+  gap: 16px; /* Espacio de separación entre elementos */
+}
